@@ -9,7 +9,8 @@ This is a web-based DICOM viewer built using [Streamlit](https://streamlit.io/).
 
 ## 🚀 Demo
 
-![UI Preview](preview.png) <!-- Optional: Add a screenshot if available -->
+![UI Preview](preview.png) <!-- Optional: Add a screenshot if available -->![image](https://github.com/user-attachments/assets/3846cd4a-1921-4632-a94e-1704539eaf27)
+
 
 ## 📦 Features
 
